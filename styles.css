@@ -105,7 +105,7 @@ body {
     display: block;
     object-fit: cover;
 
-    filter: blur(7px) brightness(90%);
+    filter: blur(7px) brightness(85%);
     transform: scale(1.08);
 }
 
