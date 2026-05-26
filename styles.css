@@ -122,6 +122,12 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+.email-text {
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    color: black;
+}
+
 /* RESPONSIVE */
 @media (max-width: 800px) {
     .site-header:not(.overlay) .header-title-box {
